@@ -1,2 +1,2 @@
 print ("I Have already created a GitHub account named Sadhani De Silva, link https://github.com/sadhanids.")
-print ("Moreover, created a new repository named Software1Assignments and linked the same to PyCharm. ")
+print ("Furthermore, created a new repository named Software1Assignments and linked the same to PyCharm. ")
