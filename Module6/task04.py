@@ -7,3 +7,4 @@ sum_of_list(my_list)
 total = sum_of_list(my_list)
 print(f"The sum of list is: {total}")
 
+
